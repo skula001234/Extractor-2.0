@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7691272055:AAEb2cq9_G3JKWrpq5NKSlXI6wEF1CLj4tc"
+    BOT_TOKEN = "8454110011:AAE4SiIVaCDeUPGipXzUOmzyLmtMBHufFEU"
     # Telegram API ki ID
     API_ID = 19822115
     API_HASH = "d251f606bc7910135770ac2d454dd2c6"
